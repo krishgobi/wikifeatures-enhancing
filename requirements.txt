@@ -1,6 +1,7 @@
 Flask==2.0.1
 gTTS==2.2.3
-google-generativeai==1.0.0
+google-generativeai==0.8.5
+
 google-cloud-vision==3.0.0
 Pillow==8.3.2
 language-tool-python==2.7.0
